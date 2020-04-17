@@ -1,5 +1,4 @@
 # libpythonpro
 Módulo para exemplificar construção de projetos Python
 
-asdasd
-asdads
+resolvendo issue #4
