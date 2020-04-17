@@ -1,4 +1,6 @@
 # libpythonpro
 Módulo para exemplificar construção de projetos Python
 
-resolvendo issue #4
+topicos a serem abordados:
+1. Git
+2. Virtual Env
