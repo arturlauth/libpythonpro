@@ -1,2 +1,4 @@
 # libpythonpro
-primeiras aulas de git
+Módulo para exemplificar construção de projetos Python
+
+asdasd
