@@ -1,6 +1,8 @@
 # libpythonpro
 Módulo para exemplificar construção de projetos Python
 
+Suportada Versão 3 de python
+
 topicos a serem abordados:
 1. Git
 2. Virtual Env
