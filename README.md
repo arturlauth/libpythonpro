@@ -5,3 +5,4 @@ topicos a serem abordados:
 1. Git
 2. Virtual Env
 3. Pip
+4. teste .idea
