@@ -4,7 +4,7 @@ Módulo para exemplificar construção de projetos Python
 Suportada Versão 3 de python
 
 [![Build Status](https://travis-ci.com/arturlauth/libpythonpro.svg?branch=master)](https://travis-ci.com/arturlauth/libpythonpro)
-teste
+travis ci ( olhar arquivo travis.yml)
 
 Para instalar:
 ``
