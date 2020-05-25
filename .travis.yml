@@ -2,7 +2,7 @@ language: python
 python:
   - 3.8
 install:
-  - pip install -q -r requirements-dev.txt codecv
+  - pip install -q -r requirements-dev.txt codecov
 script:
   - flake8
   - pytest libpythonpro_arturlauth --cov=libpythonpro_arturlauth
