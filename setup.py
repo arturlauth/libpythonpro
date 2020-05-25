@@ -110,7 +110,11 @@ setup(
     long_description_content_type='text/markdown',
     author=AUTHOR,
     author_email=AUTHOR_EMAIL,
+<<<<<<< HEAD
     license=read('LICENSE'),
+=======
+    license=read('LICENSE')
+>>>>>>> origin/master
     url=URL,
     packages=find_packages(exclude=["tests.*", "tests"]),
     package_data=find_package_data(PACKAGE, only_in_packages=False),
