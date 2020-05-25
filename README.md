@@ -11,6 +11,10 @@ pyup
 [![Python 3](https://pyup.io/repos/github/arturlauth/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/arturlauth/libpythonpro/)
 pyup python3
 
+[![codecov](https://codecov.io/gh/arturlauth/libpythonpro/branch/master/graph/badge.svg)](https://codecov.io/gh/arturlauth/libpythonpro)
+codecov
+
+
 Para instalar:
 ``
 python3 -m venv .venv
