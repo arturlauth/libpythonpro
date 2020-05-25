@@ -1,6 +1,0 @@
-python3 -m venv .venv
-source .venv/bin/activate
-deactivate
-python2 -m pip install virtualenv
-python2 -m virtualenv .venv
-

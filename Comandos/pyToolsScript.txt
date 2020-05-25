@@ -1,0 +1,26 @@
+--virtualenv
+
+	python3 -m venv .venv
+	source .venv/bin/activate
+	deactivate
+	python2 -m pip install virtualenv
+	python2 -m virtualenv .venv
+
+--requirements
+
+	para criar --- pip freeze > requirements.txt
+
+	para instalar os pacotes --- pip install -r requirements-dev.txt
+
+--Lista de classificadores
+
+	link esqueleto arquivo setup.py bookmarked.
+
+	lista de classificadores bookmarked.
+
+--Instalação Local de Pacote
+
+	pip install -e <diretório do arquivo setup.py>
+
+
+
