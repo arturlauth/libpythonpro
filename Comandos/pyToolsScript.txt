@@ -22,5 +22,8 @@
 
 	pip install -e <diretório do arquivo setup.py>
 
-
+--Criação de Release
+	git tag <nome-da-tag>
+	git push --tags
+	pip install <link>
 
