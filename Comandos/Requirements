@@ -1,0 +1,3 @@
+para criar --- pip freeze > requirements.txt
+
+para instalar os pacotes --- pip install -r requirements-dev.txt 
