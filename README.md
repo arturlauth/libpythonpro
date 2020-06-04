@@ -27,3 +27,10 @@ topicos a serem abordados:
 2. Virtual Env
 3. Pip
 4. teste .idearemoved2
+5. Testes automáticos
+6. pytests
+7. TDD
+8. Fixtures
+9. Publicação de pacote
+10. Gestão de dependencia
+11. pipenv
