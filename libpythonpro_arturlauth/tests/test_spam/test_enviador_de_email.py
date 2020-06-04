@@ -4,7 +4,7 @@ from libpythonpro_arturlauth.spam.enviador_de_email import Enviador, EmailInvali
 
 
 def test_criar_enviador_de_email():
-    enviador= Enviador()
+    enviador = Enviador()
     assert enviador is not None
 
 @pytest.mark.parametrize(
