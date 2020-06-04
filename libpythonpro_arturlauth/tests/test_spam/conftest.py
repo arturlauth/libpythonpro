@@ -3,7 +3,7 @@ import pytest
 from libpythonpro_arturlauth.spam.db import Conexao
 
 
-@pytest.fixture(scope='session') # scope tem function, module, session
+@pytest.fixture(scope='session')  # scope tem function, module, session
 def conexao():
 
     # Setup

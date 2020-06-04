@@ -33,3 +33,34 @@
 	python setup.py sdist
 	twine upload dist/*
 
+--pipenv - Instalação e Configuração do Pipenv
+
+	pyenv which python
+	  pip install pipenv
+	  pipenv
+	  mkdir pipenv-proj
+	  cd pipenv-proj/
+	  pipenv install
+	  vim ~/.bash_profile
+	  source ~/.bash_profile
+	  echo $PIPENV_VENV_IN_PROJECT
+	  ls -l -a
+
+--pipenv - Instalação e Remoção de Dependências
+
+	pipenv install requests
+	cat Pipfile
+	pipenv graph
+	less Pipfile.lock 
+	pipenv install --dev pytest -- analogo requirements-dev (dependencia do ambiente de desenvolvimento)
+	pipenv uninstall -d pytest
+	rm -rf .venv/
+
+--pipenv - Execução de Comandos no Virtualenv
+
+	pipenv shell
+	pipenv run pytest .
+	rm -rf .venv/
+	pipenv sync -d
+	pipenv sync
+

@@ -13,7 +13,6 @@ def test_salvar_usuario(sessao):
     # conexao.fechar()
 
 
-
 def test_listar_usuario(sessao):
 
     usuarios = [Usuario(nome='Artur', email='arturlauth@gmail.com'),
@@ -21,4 +20,3 @@ def test_listar_usuario(sessao):
     for usuario in usuarios:
         sessao.salvar(usuario)
     assert usuarios == sessao.listar()
-
