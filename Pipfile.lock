@@ -205,11 +205,8 @@
             "version": "==1.15.0"
         },
         "wcwidth": {
-            "hashes": [
-                "sha256:980fbf4f3c196c0f329cdcd1e84c554d6a211f18e252e525a0cf4223154a41d6",
-                "sha256:edbc2b718b4db6cdf393eefe3a420183947d6aa312505ce6754516f458ff8830"
-            ],
-            "version": "==0.2.3"
+            "hashes": [],
+            "version": "==0.2.7"
         }
     }
 }
