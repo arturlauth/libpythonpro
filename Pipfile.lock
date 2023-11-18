@@ -17,11 +17,8 @@
     },
     "default": {
         "certifi": {
-            "hashes": [
-                "sha256:5ad7e9a056d25ffa5082862e36f119f7f7cec6457fa07ee2f8c339814b80c9b1",
-                "sha256:9cd41137dc19af6a5e03b630eefe7d1f458d964d406342dd3edf625839b944cc"
-            ],
-            "version": "==2020.4.5.2"
+            "hashes": [],
+            "version": "==2023.11.17"
         },
         "chardet": {
             "hashes": [
